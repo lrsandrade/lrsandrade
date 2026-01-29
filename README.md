@@ -8,7 +8,7 @@ me chamo <a
       className="underline hover:opacity-70"
     >laryssa andrade</a> e vivo em maceió-al, nordeste do brasil. sou apaixonada por artes visuais 
      e esse cuidado estético com projetos diversos, me levou ao design e ao desenvolvimento 
-     front-end, área em que tenho me aperfeiçoado.
+     front-end.
 <br><br>
       atuo criando peças para mídias impressas e digitais, com especial interesse pela colagem e 
       websites, transformando ideias em presenças únicas. sou idealizadora do <a

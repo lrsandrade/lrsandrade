@@ -1,4 +1,4 @@
-<h2 align="center">olá, tudo bem? ✷</h2>
+<h2 align="center">olá, tudo bem? ✱</h2>
 
 <table align="center"><tr><td width="500" style="text-align: justify;">
 me chamo <a
@@ -6,11 +6,11 @@ me chamo <a
       target="_blank"
       rel="noopener noreferrer"
       className="underline hover:opacity-70"
-    >laryssa andrade (1996)</a> e vivo em maceió-al, nordeste do brasil. sou apaixonada por artes visuais e pesquisas sobre memória coletiva. 
+    >laryssa andrade)</a> e vivo em maceió-al, nordeste do brasil. sou apaixonada por artes visuais e pesquisas sobre memória coletiva. 
      esse cuidado estético com projetos diversos, me levou ao design e ao desenvolvimento web.
 <br><br>
       atuo criando peças para mídias impressas e digitais, com especial interesse pela colagem e 
-      o protótipo de sites, unindo arte e tecnologia. sou idealizadora e diretora criativa do projeto <a
+      o protótipo de sites, unindo arte e tecnologia. idealizadora e diretora criativa do projeto <a
       href="https://www.instagram.com/projetoalinhavos/"
       target="_blank"
       rel="noopener noreferrer"

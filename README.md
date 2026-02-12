@@ -6,12 +6,11 @@ me chamo <a
       target="_blank"
       rel="noopener noreferrer"
       className="underline hover:opacity-70"
-    >laryssa andrade</a> e vivo em maceió-al, nordeste do brasil. sou apaixonada por artes visuais 
-     e esse cuidado estético com projetos diversos, me levou ao design e ao desenvolvimento 
-     front-end.
+    >laryssa andrade (1996)</a> e vivo em maceió-al, nordeste do brasil. sou apaixonada por artes visuais e pesquisas sobre memória coletiva. 
+     esse cuidado estético com projetos diversos, me levou ao design e ao desenvolvimento web.
 <br><br>
       atuo criando peças para mídias impressas e digitais, com especial interesse pela colagem e 
-      websites, transformando ideias em presenças únicas. sou idealizadora do <a
+      o protótipo de sites, unindo arte e tecnologia. sou idealizadora e diretora criativa do projeto <a
       href="https://www.instagram.com/projetoalinhavos/"
       target="_blank"
       rel="noopener noreferrer"
@@ -21,12 +20,12 @@ me chamo <a
       target="_blank"
       rel="noopener noreferrer"
       className="underline hover:opacity-70"
-    >atelier criativo</a> e integro o <a
+    >atelier criativo</a> e faço parte do coletivo <a
       href="https://www.instagram.com/punhocoletivo/"
       target="_blank"
       rel="noopener noreferrer"
       className="underline hover:opacity-70"
-    >Punho Coletivo</a>.
+    >Punho</a>, captando e editando imagens.
 </td></tr></table>
 
 <br><br>

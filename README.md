@@ -1,6 +1,6 @@
 <h2 align="center">olá, tudo bem? ✱</h2>
 
-<table align="center"><tr><td width="500" style="text-align: justify;">
+<table align="center"><tr><td width="600" style="text-align: justify;">
 me chamo <a
       href="https://www.instagram.com/lrsandrade/"
       target="_blank"

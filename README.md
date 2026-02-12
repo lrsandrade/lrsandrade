@@ -6,7 +6,7 @@ me chamo <a
       target="_blank"
       rel="noopener noreferrer"
       className="underline hover:opacity-70"
-    >laryssa andrade)</a> e vivo em maceió-al, nordeste do brasil. sou apaixonada por artes visuais e pesquisas sobre memória coletiva. 
+    >laryssa andrade</a> e vivo em maceió-al, nordeste do brasil. sou apaixonada por artes visuais e pesquisas sobre memória coletiva. 
      esse cuidado estético com projetos diversos, me levou ao design e ao desenvolvimento web.
 <br><br>
       atuo criando peças para mídias impressas e digitais, com especial interesse pela colagem e 

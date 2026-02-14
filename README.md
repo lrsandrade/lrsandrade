@@ -32,6 +32,6 @@ me chamo <a
 
 <div align="center" style="width: 500px; margin: 0 auto;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,premiere,vscode,github,nodejs,typescript,javascript,html,css,xml" />
+    <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,vscode,github,nodejs,typescript,javascript,html,css,xml" />
   </a>
 </div>

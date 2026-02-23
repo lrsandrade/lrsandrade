@@ -7,7 +7,7 @@ me chamo <a
       rel="noopener noreferrer"
       className="underline hover:opacity-70"
     >laryssa andrade</a> e vivo em maceió-al, nordeste do brasil. sou apaixonada por artes visuais e pesquisas sobre memória coletiva. 
-     esse cuidado estético com projetos diversos, me levou ao design e ao desenvolvimento web.
+     esse cuidado estético com projetos diversos, me levou ao design e ao desenvolvimento web, este, focado em front-end com Next.js e TypeScript.
 <br><br>
       atuo criando peças para mídias impressas e digitais, com especial interesse pela colagem e 
       o protótipo de sites, unindo arte e tecnologia. idealizadora e diretora criativa do projeto <a
